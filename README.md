@@ -1,2 +1,1 @@
-# competitions-distributed
-Competitive programming code for Distributed Google Code Jam
+Archived. Merged into https://github.com/mikhail-dvorkin/competitions
